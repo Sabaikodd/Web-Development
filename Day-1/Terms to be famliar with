@@ -1,0 +1,41 @@
+Internet:
+      The interconnected network of computers around the world that uses standardized communication protocols for communication,data sharing and many more.
+There are 2 types of computer in a network:
+                   1.Server computer:
+                          The special computer that is open 24/7,stores all data and infos and provides them when requested.
+                          There's only one server computer in a network.
+                  2.Clients Computer:
+                          Those computer that seeks data and infos and requests server computers when required.
+                          There can be as many clients computers in a networks.
+
+          Clients---request-->  IPS(internet service provider)-------------->DNS(Domain name service)
+                 <-----------                                 <--IPaddress---
+Web Development:
+            Building/Creating website for the internet.
+            Lets look at quick example to know how wesite works:
+                           When we search in google.com in our browser we send the request to google server,which then further sends packaged code of HTML,CSS,javaScript
+                           to our browser not the actual web page.Then our browser composes a web page according to those provided codes and displays the web page.
+HTML:
+       This gives strucuture to our program like bones in our human bodies.
+CSS:
+       This gives style,layout to our program like eyes,muscles,hair,nails in our bodies.
+JavaScript:
+       This gives functionality to our program like breathing,walking,eating in us human beings.
+
+Frontend technology:
+                The visual and interactive elements of a website that users interact with directly.
+                   Eg:Searching googke.com and geeting google web page in above example.
+Backend technology:
+                The backend is the server side of the website which stores data.
+                It also makes sure everything on the client side of the website works fine whereas clients cannot see and interact with it.
+                    Eg: google server side from above example.
+Those developers that works on both Frontend and Backend they are known as Full Stack developer.
+
+
+
+           
+
+                              
+
+
+ 
