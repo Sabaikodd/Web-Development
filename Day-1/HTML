@@ -1,0 +1,40 @@
+HTML means Hypertext Markup Language.
+   -That gives structure,formatting,actual visual for website //Note:note Colors,Styles.
+   -HTML is not case sensitive language i.e we can write upper case and lower case in HTML.
+    Eg.<HEAD> <head> // this means same.
+
+Here we will be learning about HTML 5
+
+In HTMl we use tags:
+    Tags are the components used to design the structure of websites.
+    Tags are of 2 types:
+              1.Pair tag
+                       - Tags having both opening and closing tag.
+              2.Single tag  
+                       -Tags having only opening tag.
+
+The standard elements that browser recognizes are:
+         1.Paragraph element 
+         2.Heading element 
+         3.Image element
+1.Paragraph element:
+             This represents paragraphs in program. Single tag will display single paragraph or single line.
+              If we want to change paragraph or change line we must use different tag.
+                          <p> //body </p>
+                 Eg:
+                   <p> This is my very first paragraph using paragraph tag.</p>
+               This will display:
+                     This is my very first paragraph using paragraph tag.
+2.Heading element:
+            This represents headings in program. If we want some thing to be heading of our project then we use heading tag.
+            It has 6 levels  h1,h2...h6. h1 means biggest in size and h6 means smallest. 
+                          <h> //body </h>
+                  Eg:
+                      <h1>This is the heading<h1>
+
+we will learn about image element the next day.
+
+                  
+             
+                                
+ 
