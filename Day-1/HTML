@@ -12,7 +12,7 @@ In HTMl we use tags:
                        - Tags having both opening and closing tag.
               2.Single tag  
                        -Tags having only opening tag.
-
+    
 The standard elements that browser recognizes are:
          1.Paragraph element 
          2.Heading element 
@@ -32,7 +32,12 @@ The standard elements that browser recognizes are:
                   Eg:
                       <h1>This is the heading<h1>
 
-we will learn about image element the next day.
+ we cand have tag inside of tag then that is called nested tag.
+
+              eg: <p><b> This line is in bold.</b></p>  //<b></b> makes the written statement bold.   
+
+
+we will learn about image element and other tags the next day.
 
                   
              
