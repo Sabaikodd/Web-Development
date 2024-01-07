@@ -1,0 +1,16 @@
+Boiler plate is a standard format or skeleton of writting HTMl code.
+  
+  <!DOCTYPE html> //tells the version of HTML
+<html > //root tag
+    <head> //meta data,for linking other files
+        <title>Boilerpalte</title> //shows on the top of web page.
+    </head>
+    <body>
+        <p>Hello world</p>
+    </body>
+</html>
+
+ This will display:
+            Hello world
+            
+ Meta data: Data and info about data.     
