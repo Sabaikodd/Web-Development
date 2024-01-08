@@ -1,0 +1,27 @@
+Image Element:
+      -Used to add images to our page.
+      -A single tag <img>.
+      -Has 2 attributes inside it:
+                 1.Source attribute:
+                         Here we write the link of what needs to displayed. Which again can be both alsolute and relative link.
+                         If we use absolute link, the content of internet might get deleted and that will effect our program too unlike relative link.
+                            Eg:<img src="link either copied from internet or made by us( but has to be of same name we used to save)."
+                 2.Alternate attribute:
+                         Here we write what is in the image.This is important because when the internet is down
+                         and is slow the image doesnot load so to let the viewr know what was in the image.
+                            Eg: alt="Random image">.
+
+       - A small eg of image element is:
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Image element in HTML</title>
+    </head>
+    <body>
+        <img src="https://cdn.britannica.com/49/182849-050-4C7FE34F/scene-Iron-Man.jpg" height="100" width="100" alt="iron image">
+    </body>
+</html>
+
+ The height and width are used to set the size of image.
