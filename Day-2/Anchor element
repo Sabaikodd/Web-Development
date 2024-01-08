@@ -1,0 +1,27 @@
+Anchor Element:
+      This is used to while adding links to your page. Also there are 2 types of links we should know before hand.
+          1.Absolute Link:
+              -Directly extracted from internet like https://www.google.com or https://www.facebook.com
+      
+          2.Relative link:
+              -Those link that we create from our own files where as that link has to be in same file our program is.
+
+     <a>//body </a> this is the tag for anchor element. Here we will look at small example:
+
+      <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Anchor Tag In HTML></title>
+    </head>
+    <body>                
+         <p><a href="https://www.google.com/">Google</a></p>    // these are absolute links
+         <p><a href="https://www.netflix.com/">Netflix</a></p>
+    </body>
+</html>
+ 
+Here,
+    href means Hypertext Reference.Inside href we have to write whole link.
+    And the second half of anchor tag >Google</a> will display as Google and
+    if we click on Google that will take us to the google page.
