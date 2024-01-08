@@ -1,0 +1,13 @@
+More tags in HTML
+           Br tag:
+             -Used to break the line.
+             -<br>//body </br>.
+           Bold tag:
+             -Used to bold any words.
+             -<b>//body</b>
+           Italic tag:
+             -used to change fonts to italic.
+             -<i>//body</i> 
+           Underline tag: 
+             -Used to underline the content.
+             -<u>//body</u>.
