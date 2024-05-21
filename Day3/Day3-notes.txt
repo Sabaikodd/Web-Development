@@ -1,0 +1,38 @@
+Inline and block elements
+     Inline elements : 
+                -are those elememts that takes necessary width ans space for themself.
+                -doesnot start from new line.
+                -eg:Image element,anchor element.
+     Block elements:
+               - are those elements that takes up whole block/width even if they dont need it.
+               - starts from new line.
+               -eg:paragraph element,heading element.
+      
+       Eg of block element:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline v/s Block</title>
+</head>
+<body>
+    <h1>Inline element</h1>
+    <h1>Inline element 2</h1>   
+    <p> This is also</p>
+</body>
+</html>
+
+Eg of Inline element:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline v/s Block</title>
+</head>
+<body>
+    <a herf="www.google.com"> Google</a>
+    <a herf="www.netflix.com"> Netflix</a>
+<img src="https://m.media-amazon.com/images/M/MV5BMjAxMDQ1MDE0Ml5BMl5BanBnXkFtZTcwOTc0MTIyMw@@._V1_.jpg" alt="Hulk image" width="100" length="100">
